@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.daba{
+    height: 560px;
+    width: 560px;
+    background: tomato;
+    margin: 0 auto;
+    position: relative;
+    border: 2px solid black;
+    top: 50px;
+
+}
+.one{
+    height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: relative;
+}
+.two{
+    height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: relative;
+    display: flex;
+    top: 70px;
+    left: 0;
+}
+.three{
+    height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: relative;
+    display: flex;
+    top: 140px;
+    left: 0;
+}
+.four{
+ height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: relative;
+    display: flex;
+    top: 210px;
+    left: 0;   
+}
+.five{
+    height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 70px;
+    left: 70px;
+}
+.six{
+       height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 0px;
+    left: 140px;
+ 
+}
+.seven{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 0px;
+    left: 280px;
+
+}
+.eight{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 0px;
+    left: 420px;
+
+}
+.nine{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 70px;
+    left: 210px;
+
+}
+.ten{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 70px;
+    left: 350px;
+
+}
+.eleven{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 70px;
+    left: 490px;
+
+}
+.twelve{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 140px;
+    left: 140px;
+
+    
+}
+.thirteen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top: 140px;
+    left: 280px;
+
+} 
+.fourteen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:140px;
+    left:420px;
+
+}
+.sixteen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:210px;
+    left: 70px;
+
+}
+.seventeen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:210px;
+    left:210px;
+
+}
+.eighteen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:210px;
+    left:350px;
+
+}
+.nineteen{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:210px;
+    left:490px;
+
+}
+.twenty{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:280px;
+    left:140px;
+
+}
+.ekus{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:280px;
+    left:280px;
+
+}
+
+.bais{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:280px;
+    left:420px;
+
+}
+.teis{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:350px;
+    left: 70px;
+
+}
+.tfour{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:350px;
+    left:210px;
+
+}
+.tfive{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:350px;
+    left:350px;
+
+}
+.tsix{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:350px;
+    left:490px;
+
+}
+.tseven{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:420px;
+    left:140px;
+
+}
+.teight{
+        height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:420px;
+    left:280px;
+
+}
+.tnine{
+            height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    display: flex;
+    top:420px;
+    left:420px;
+
+}    
+.thirteen{}
